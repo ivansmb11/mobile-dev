@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "270683553434",
+    "project_id": "rickrolling-f994b",
+    "storage_bucket": "rickrolling-f994b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270683553434:android:d04e3ba0e44714db3d6923",
+        "android_client_info": {
+          "package_name": "com.example.registration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270683553434-h54a2en3bn74tku33bho30g03kvi6a6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkFy-zoIvCGRC-kS2TyK00lgU6oLVbGDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270683553434-h54a2en3bn74tku33bho30g03kvi6a6u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
